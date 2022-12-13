@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Yayo",
+      "lastName": "Junco",
+      "phone": "4421816381",
+      "mail": "yayo@hotmail.com",
+      "country": "Zakia"
+    },{
+      "id": 2,
+      "name": "Sandy",
+      "lastName": "Martinez",
+      "phone": "4421586851",
+      "mail": "sandy@hotmail.com",
+      "country": "Av del Parque"
+    },{
+      "id": 3,
+      "name": "Leonardo",
+      "lastName": "Junco",
+      "phone": "4421696375",
+      "mail": "leo@hotmail.com",
+      "country": "Chiluca"
+    },{
+      "id": 4,
+      "name": "Rafael",
+      "lastName": "Elizalde",
+      "phone": "4422743193",
+      "mail": "rafael@hotmail.com",
+      "country": "Zakia"
+    },{
+      "id": 5,
+      "name": "Andres",
+      "lastName": "Caire",
+      "phone": "4422454596",
+      "mail": "caire@hotmail.com",
+      "country": "Tlacote"
+    }
+  ]
+}
