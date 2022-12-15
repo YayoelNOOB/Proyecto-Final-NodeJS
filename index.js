@@ -18,8 +18,8 @@ app.use(express.urlencoded({ extended: true }));
 
 app.get('/', index);
 app.use("/user", user);
-app.use(auth);
 app.use("/directory", directory);
+app.use(auth);
 app.use(notFound);
 
 app.use((req, res, next) => {
